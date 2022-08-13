@@ -24,7 +24,7 @@ GitHub Files:                 https://github.com/GitH2018/CC_DataAnalysis
 HTML Website for R markdown:  Course_8_Bike_Study_FULL.html 
 R markdown file (RMD):        Course_8_Bike_Study.rmd
 Powerpoint Presentation:      Course 8 - Bike Data Analysis.pptx
-Several Excel/CSV files:
+Several Excel/CSV files used in analysis will be available on request
 
 Contact: Colin Coyne,  
          Coyne Operations Ltd,  
